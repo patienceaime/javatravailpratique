@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Ajouter un utilisateur</title>
+    <title>Ajouter un utilisateur :</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
